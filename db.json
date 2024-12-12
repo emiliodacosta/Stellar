@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 0,
+      "username": "emidac",
+      "content": "This was and always will be the first post ever submitted to this message board!",
+      "created_at": "2024-12-12T16:12:28.112Z"
+    },
+    {
+      "id": 1,
+      "username": "emidac",
+      "content": "And here is the second post! If I appear to be the first post it's because my predecesor was deleted 😭",
+      "created_at": "2024-12-12T16:17:49.889Z"
+    },
+    {
+      "id": 2,
+      "username": "waluigi",
+      "content": "It’s a me WALUIGI - author of the 3rd post!",
+      "created_at": "2024-12-12T16:59:23.693Z"
+    }
+  ]
+}
